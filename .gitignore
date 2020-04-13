@@ -1,0 +1,12 @@
+# IDEs
+.idea/
+
+# Hugo
+resources/
+public/
+
+#R
+.Rproj.user
+.Rhistory
+.RData
+.Rprofile
